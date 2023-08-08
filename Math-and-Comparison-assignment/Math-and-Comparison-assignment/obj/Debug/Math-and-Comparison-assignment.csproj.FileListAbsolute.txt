@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Math-and-Comparison-assignment\Math-and-Comparison-assignment\bin\Debug\Math-and-Comparison-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Math-and-Comparison-assignment\Math-and-Comparison-assignment\bin\Debug\Math-and-Comparison-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Math-and-Comparison-assignment\Math-and-Comparison-assignment\bin\Debug\Math-and-Comparison-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Math-and-Comparison-assignment\Math-and-Comparison-assignment\obj\Debug\Math-and-Comparison-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Math-and-Comparison-assignment\Math-and-Comparison-assignment\obj\Debug\Math-and-Comparison-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Math-and-Comparison-assignment\Math-and-Comparison-assignment\obj\Debug\Math-and-Comparison-assignment.pdb

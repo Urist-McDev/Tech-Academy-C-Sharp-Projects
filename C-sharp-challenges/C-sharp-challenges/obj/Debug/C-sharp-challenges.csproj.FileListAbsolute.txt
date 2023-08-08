@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\bin\Debug\C-sharp-challenges.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\bin\Debug\C-sharp-challenges.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\bin\Debug\C-sharp-challenges.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\obj\Debug\C-sharp-challenges.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\obj\Debug\C-sharp-challenges.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\obj\Debug\C-sharp-challenges.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\C-sharp-challenges\C-sharp-challenges\obj\Debug\C-sharp-challenges.pdb
