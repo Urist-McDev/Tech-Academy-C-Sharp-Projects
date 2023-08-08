@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\bin\Debug\DR_assignment.exe.config
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\bin\Debug\DR_assignment.exe
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\bin\Debug\DR_assignment.pdb
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\obj\Debug\DR_assignment.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\obj\Debug\DR_assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\obj\Debug\DR_assignment.exe
+C:\Users\starw\Documents\GitHub\Basic_C#_Programs\DR_assignment\DR_assignment\obj\Debug\DR_assignment.pdb
