@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\bin\Debug\bool-projects.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\bin\Debug\bool-projects.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\bin\Debug\bool-projects.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\obj\Debug\bool-projects.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\obj\Debug\bool-projects.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\obj\Debug\bool-projects.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\bool-projects\bool-projects\obj\Debug\bool-projects.pdb
