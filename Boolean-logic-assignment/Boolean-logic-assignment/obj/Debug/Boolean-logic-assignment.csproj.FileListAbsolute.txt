@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Boolean-logic-assignment\Boolean-logic-assignment\bin\Debug\Boolean-logic-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Boolean-logic-assignment\Boolean-logic-assignment\bin\Debug\Boolean-logic-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Boolean-logic-assignment\Boolean-logic-assignment\bin\Debug\Boolean-logic-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Boolean-logic-assignment\Boolean-logic-assignment\obj\Debug\Boolean-logic-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Boolean-logic-assignment\Boolean-logic-assignment\obj\Debug\Boolean-logic-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Boolean-logic-assignment\Boolean-logic-assignment\obj\Debug\Boolean-logic-assignment.pdb
