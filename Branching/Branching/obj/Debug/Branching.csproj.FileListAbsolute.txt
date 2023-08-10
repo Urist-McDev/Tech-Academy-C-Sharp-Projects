@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Branching\Branching\obj\Debug\Branching.pdb
