@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Switches-and-loops\Switches-and-loops\bin\Debug\Switches-and-loops.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Switches-and-loops\Switches-and-loops\bin\Debug\Switches-and-loops.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Switches-and-loops\Switches-and-loops\bin\Debug\Switches-and-loops.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Switches-and-loops\Switches-and-loops\obj\Debug\Switches-and-loops.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Switches-and-loops\Switches-and-loops\obj\Debug\Switches-and-loops.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Switches-and-loops\Switches-and-loops\obj\Debug\Switches-and-loops.pdb

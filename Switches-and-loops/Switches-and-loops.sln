@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switches-and-loops", "Switches-and-loops\Switches-and-loops.csproj", "{6733A242-8A90-4BAD-96F3-93227AA3C5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6733A242-8A90-4BAD-96F3-93227AA3C5AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6733A242-8A90-4BAD-96F3-93227AA3C5AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6733A242-8A90-4BAD-96F3-93227AA3C5AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6733A242-8A90-4BAD-96F3-93227AA3C5AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCDEE57-F49E-4A0C-83C5-56FB4D6BDDEB}
+	EndGlobalSection
+EndGlobal
