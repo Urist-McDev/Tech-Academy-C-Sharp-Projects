@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\arrays\arrays\obj\Debug\arrays.pdb

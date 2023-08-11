@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Arrays-assignment\Arrays-assignment\bin\Debug\Arrays-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Arrays-assignment\Arrays-assignment\bin\Debug\Arrays-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Arrays-assignment\Arrays-assignment\bin\Debug\Arrays-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Arrays-assignment\Arrays-assignment\obj\Debug\Arrays-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Arrays-assignment\Arrays-assignment\obj\Debug\Arrays-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Arrays-assignment\Arrays-assignment\obj\Debug\Arrays-assignment.pdb

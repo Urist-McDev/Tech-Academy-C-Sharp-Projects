@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\strings\strings\bin\Debug\strings.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\strings\strings\bin\Debug\strings.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\strings\strings\bin\Debug\strings.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\strings\strings\obj\Debug\strings.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\strings\strings\obj\Debug\strings.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\strings\strings\obj\Debug\strings.pdb
