@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iterations\Iterations\obj\Debug\Iterations.pdb
