@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\bin\Debug\Loop-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\bin\Debug\Loop-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\bin\Debug\Loop-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\obj\Debug\Loop-assignment.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\obj\Debug\Loop-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\obj\Debug\Loop-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Loop-assignment\Loop-assignment\obj\Debug\Loop-assignment.pdb
