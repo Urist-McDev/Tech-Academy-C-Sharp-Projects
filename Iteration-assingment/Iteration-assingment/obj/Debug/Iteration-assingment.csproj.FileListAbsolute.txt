@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\bin\Debug\Iteration-assingment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\bin\Debug\Iteration-assingment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\bin\Debug\Iteration-assingment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\obj\Debug\Iteration-assingment.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\obj\Debug\Iteration-assingment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\obj\Debug\Iteration-assingment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Iteration-assingment\Iteration-assingment\obj\Debug\Iteration-assingment.pdb
