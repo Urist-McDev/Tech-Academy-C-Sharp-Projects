@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Exception-assignment\Exception-assignment\bin\Debug\Exception-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Exception-assignment\Exception-assignment\bin\Debug\Exception-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Exception-assignment\Exception-assignment\bin\Debug\Exception-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Exception-assignment\Exception-assignment\obj\Debug\Exception-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Exception-assignment\Exception-assignment\obj\Debug\Exception-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Exception-assignment\Exception-assignment\obj\Debug\Exception-assignment.pdb
