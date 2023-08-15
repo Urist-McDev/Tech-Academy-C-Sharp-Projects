@@ -57,43 +57,43 @@ class Program
 
         //Console.ReadLine();
 
-        List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
-        Console.WriteLine("Please enter a cake flavor");
-        string userCake = Console.ReadLine();
-
-        if (cakes.Contains(userCake))
-        {
-            for (int i = 0; i < cakes.Count; i++)
-            {
-                if (userCake == cakes[i])
-                {
-                    Console.WriteLine(cakes[i]);
-                }
-            }
-        }
-        else
-        {
-            Console.WriteLine("We don't have that flavor.");
-        }
-
-        Console.ReadLine();
-
         //List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
-        //List<string> dupCakes = new List<string>();
+        //Console.WriteLine("Please enter a cake flavor");
+        //string userCake = Console.ReadLine();
 
-        //foreach (string cake in cakes)
+        //if (cakes.Contains(userCake))
         //{
-        //    if (dupCakes.Contains(cake))
+        //    for (int i = 0; i < cakes.Count; i++)
         //    {
-        //        Console.WriteLine("This cake has shown up in the list already.");
-        //    }
-        //    else
-        //    {
-        //        dupCakes.Add(cake);
-        //        Console.WriteLine(cake);
+        //        if (userCake == cakes[i])
+        //        {
+        //            Console.WriteLine(cakes[i] + " is at index " + i);
+        //        }
         //    }
         //}
+        //else
+        //{
+        //    Console.WriteLine("We don't have that flavor.");
+        //}
+
         //Console.ReadLine();
+
+        List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
+        List<string> dupCakes = new List<string>();
+
+        foreach (string cake in cakes)
+        {
+            if (dupCakes.Contains(cake))
+            {
+                Console.WriteLine(cake + " has shown up already.");
+            }
+            else
+            {
+                dupCakes.Add(cake);
+                Console.WriteLine(cake + " has not show up yet.");
+            }
+        }
+        Console.ReadLine();
     }
 }
 
