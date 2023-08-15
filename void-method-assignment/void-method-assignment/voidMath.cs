@@ -8,7 +8,7 @@ namespace void_method_assignment
 {
     class voidMath
     {
-        public static void Add(int num1, int num2)
+        public void Add(int num1, int num2)
         {
             int sum = num1 + num2;
 
