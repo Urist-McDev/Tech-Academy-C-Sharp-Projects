@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Optional-Arguments-Assignment\Optional-Arguments-Assignment\bin\Debug\Optional-Arguments-Assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Optional-Arguments-Assignment\Optional-Arguments-Assignment\bin\Debug\Optional-Arguments-Assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Optional-Arguments-Assignment\Optional-Arguments-Assignment\bin\Debug\Optional-Arguments-Assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Optional-Arguments-Assignment\Optional-Arguments-Assignment\obj\Debug\Optional-Arguments-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Optional-Arguments-Assignment\Optional-Arguments-Assignment\obj\Debug\Optional-Arguments-Assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Optional-Arguments-Assignment\Optional-Arguments-Assignment\obj\Debug\Optional-Arguments-Assignment.pdb
