@@ -8,12 +8,12 @@ namespace Class_Assignment
 {
     class voidStuff
     {
-        public static void Math(int num)
+        public void Math(int num)
         {
             Console.WriteLine(num / 2);
         }
 
-        public static void Math(int num, out int numUsed)
+        public void Math(int num, out int numUsed)
         {
             Console.WriteLine(num / 2);
 
