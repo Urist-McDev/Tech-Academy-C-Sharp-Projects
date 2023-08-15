@@ -10,11 +10,21 @@ namespace Optional_Arguments_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number. After, you can enter a second number as well, but it is not needed.");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            int? num2 = Convert.ToInt32(Console.ReadLine());
+            MathMethod mathMethod = new MathMethod();
 
-            Console.WriteLine("The sum is: " + MathMethod.Math(num1, num2));
+            Console.WriteLine("Enter first number.");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            
+            try
+            {
+                Console.WriteLine("Enter a second number. This is optional.");
+                int num2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(mathMethod.Math(num1, num2));
+            }
+            catch
+            {
+                Console.WriteLine(mathMethod.Math(num1));
+            }
 
             Console.ReadLine();
         }
