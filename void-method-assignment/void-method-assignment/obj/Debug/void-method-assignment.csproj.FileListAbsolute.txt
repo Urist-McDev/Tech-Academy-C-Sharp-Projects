@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\void-method-assignment\void-method-assignment\bin\Debug\void-method-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\void-method-assignment\void-method-assignment\bin\Debug\void-method-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\void-method-assignment\void-method-assignment\bin\Debug\void-method-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\void-method-assignment\void-method-assignment\obj\Debug\void-method-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\void-method-assignment\void-method-assignment\obj\Debug\void-method-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\void-method-assignment\void-method-assignment\obj\Debug\void-method-assignment.pdb
