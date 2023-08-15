@@ -45,7 +45,7 @@ class Program
         //    {
         //        if (userCake == cakes[i])
         //        {
-        //            Console.WriteLine("We have that flavor!");
+        //            Console.WriteLine(cakes.IndexOf(userCake));
         //            break;
         //        }
         //    }
@@ -57,34 +57,43 @@ class Program
 
         //Console.ReadLine();
 
-        //List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
-        //Console.WriteLine("Please enter a cake flavor");
-        //string userCake = Console.ReadLine();
+        List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
+        Console.WriteLine("Please enter a cake flavor");
+        string userCake = Console.ReadLine();
 
-        //if (cakes.Contains(userCake))
+        if (cakes.Contains(userCake))
+        {
+            for (int i = 0; i < cakes.Count; i++)
+            {
+                if (userCake == cakes[i])
+                {
+                    Console.WriteLine(cakes);
+                }
+            }
+        }
+        else
+        {
+            Console.WriteLine("We don't have that flavor.");
+        }
+
+        Console.ReadLine();
+
+        //List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
+        //List<string> dupCakes = new List<string>();
+
+        //foreach (string cake in cakes)
         //{
-        //    for (int i = 0; i < cakes.Count; i++)
+        //    if (dupCakes.Contains(cake))
         //    {
-        //        if (userCake == cakes[i])
-        //        {
-        //            Console.WriteLine(cakes[i]);
-        //        }
+        //        Console.WriteLine("This cake has shown up in the list already.");
+        //    }
+        //    else
+        //    {
+        //        dupCakes.Add(cake);
+        //        Console.WriteLine(cake);
         //    }
         //}
-        //else
-        //{
-        //    Console.WriteLine("We don't have that flavor.");
-        //}
-
         //Console.ReadLine();
-
-        List<string> cakes = new List<string>() { "Vanilla", "Chocolate", "Marbled", "Red Velvet", "Vanilla", "Marbled" };
-
-        foreach (string cake in cakes)
-        {
-            Console.WriteLine(cake);
-        }
-        Console.ReadLine();
     }
 }
 
