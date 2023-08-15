@@ -67,7 +67,7 @@ class Program
             {
                 if (userCake == cakes[i])
                 {
-                    Console.WriteLine(cakes);
+                    Console.WriteLine(cakes[i]);
                 }
             }
         }
