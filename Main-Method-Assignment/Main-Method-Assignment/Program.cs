@@ -14,9 +14,11 @@ namespace Main_Method_Assignment
             decimal num2 = 2.7m;
             string num3 = "8";
 
-            Console.WriteLine(MathMethods.Add(num));
-            Console.WriteLine(MathMethods.Add(num2));
-            Console.WriteLine(MathMethods.Add(num3));
+            MathMethods mathMethods = new MathMethods();
+
+            Console.WriteLine(mathMethods.Add(num));
+            Console.WriteLine(mathMethods.Add(num2));
+            Console.WriteLine(mathMethods.Add(num3));
 
             Console.ReadLine();
         }
