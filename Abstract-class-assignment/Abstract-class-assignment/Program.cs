@@ -11,6 +11,8 @@ namespace Abstract_class_assignment
         static void Main(string[] args)
         {
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
+            IQuitable quitable = new Employee();
+            quitable.Quit();
             employee.SayName();
             Console.ReadLine();
         }
