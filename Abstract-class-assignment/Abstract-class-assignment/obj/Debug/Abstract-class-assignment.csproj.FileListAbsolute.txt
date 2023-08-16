@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\bin\Debug\Abstract-class-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\bin\Debug\Abstract-class-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\bin\Debug\Abstract-class-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\obj\Debug\Abstract-class-assignment.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\obj\Debug\Abstract-class-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\obj\Debug\Abstract-class-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Abstract-class-assignment\Abstract-class-assignment\obj\Debug\Abstract-class-assignment.pdb
