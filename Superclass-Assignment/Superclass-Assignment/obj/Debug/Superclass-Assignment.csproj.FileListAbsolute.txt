@@ -1,0 +1,6 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Superclass-Assignment\Superclass-Assignment\bin\Debug\Superclass-Assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Superclass-Assignment\Superclass-Assignment\bin\Debug\Superclass-Assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Superclass-Assignment\Superclass-Assignment\bin\Debug\Superclass-Assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Superclass-Assignment\Superclass-Assignment\obj\Debug\Superclass-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Superclass-Assignment\Superclass-Assignment\obj\Debug\Superclass-Assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Superclass-Assignment\Superclass-Assignment\obj\Debug\Superclass-Assignment.pdb
