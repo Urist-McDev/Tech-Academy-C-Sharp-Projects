@@ -13,6 +13,9 @@ namespace Superclass_Assignment
             Employee employee1 = new Employee() { FirstName = "John", LastName = "Doe", Id = 4 };
             Employee employee2 = new Employee() { FirstName = "Jane", LastName = "Doe", Id = 76 };
 
+            Console.WriteLine(employee1 == employee2);
+            Console.WriteLine(employee1 != employee2);
+
             Console.ReadLine();
         }
     }
