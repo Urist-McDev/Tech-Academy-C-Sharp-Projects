@@ -14,12 +14,12 @@ namespace TwentyOne
 
         public abstract void Play();
 
-        public virtual void ListPlayers()
-        {
-            foreach (Player player in Players)
-            {
-                Console.WriteLine(player.Name);
-            }
-        }
+        //public virtual void ListPlayers()
+        //{
+        //    foreach (Player player in Players)
+        //    {
+        //        Console.WriteLine(player.Name);
+        //    }
+        //}
     }
 }
