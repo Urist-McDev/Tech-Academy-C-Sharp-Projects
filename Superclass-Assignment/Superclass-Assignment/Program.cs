@@ -10,8 +10,9 @@ namespace Superclass_Assignment
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
-            employee.SayName();
+            Employee employee1 = new Employee() { FirstName = "John", LastName = "Doe", Id = 4 };
+            Employee employee2 = new Employee() { FirstName = "Jane", LastName = "Doe", Id = 76 };
+
             Console.ReadLine();
         }
     }
