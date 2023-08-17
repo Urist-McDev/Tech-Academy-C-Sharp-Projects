@@ -1,0 +1,7 @@
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\bin\Debug\Generics-assignment.exe.config
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\bin\Debug\Generics-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\bin\Debug\Generics-assignment.pdb
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\obj\Debug\Generics-assignment.csproj.AssemblyReference.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\obj\Debug\Generics-assignment.csproj.CoreCompileInputs.cache
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\obj\Debug\Generics-assignment.exe
+C:\Users\starw\Documents\GitHub\Tech-Academy-C-Sharp-Projects\Generics-assignment\Generics-assignment\obj\Debug\Generics-assignment.pdb
