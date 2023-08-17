@@ -10,10 +10,17 @@ namespace Parsing_Enums_Assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a day of the week.");
-            string input = Console.ReadLine();
-            Enum.TryParse(input, out DaysOfTheWeek userInput);
-            Console.WriteLine(userInput);
+            Console.WriteLine("Input a day of the week.");
+            string userInput = Console.ReadLine();
+            try
+            {
+                DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userInput);
+                Console.WriteLine("You chose: " + day);
+            }
+            catch
+            {
+                Console.WriteLine("Please enter a real day of the week.");
+            }
             Console.ReadLine();
         }
     }
