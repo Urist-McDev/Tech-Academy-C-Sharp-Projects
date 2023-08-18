@@ -6,23 +6,44 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Player<T>
+    public class Player
     {
-        public List<T> Hand { get; set; }
+        public Player(string name, int startingBalance)
+        {
+            Hand = new List<Card>();
+            Balance = startingBalance;
+            Name = name;
+        }
+        public List<Card> Hand { get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+        public bool Stay { get; set; }
 
-        //public static Game operator+ (Game game, Player player)
-        //{
-        //    game.Players.Add(player);
-        //    return game;
-        //}
+        public bool Bet(int amount)
+        {
+            if (Balance - amount < 0)
+            {
+                Console.WriteLine("You don't have enough cash for that kind of bet, varmit!");
+                return false;
+            }
+            else
+            {
+                Balance -= amount;
+                return true;
+            }
+        }
 
-        //public static Game operator- (Game game, Player player)
-        //{
-        //    game.Players.Remove(player);
-        //    return game;
-        //}
+        public static Game operator +(Game game, Player player)
+        {
+            game.Players.Add(player);
+            return game;
+        }
+
+        public static Game operator -(Game game, Player player)
+        {
+            game.Players.Remove(player);
+            return game;
+        }
     }
 }

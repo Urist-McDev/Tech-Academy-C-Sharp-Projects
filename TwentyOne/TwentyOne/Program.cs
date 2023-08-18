@@ -10,15 +10,27 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            Console.WriteLine("Welcome to this fine saloon! What's ya name, partner?");
+            string playerName = Console.ReadLine();
+            Console.WriteLine("And how much are you willing to bring to the table today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello, {0}. You want to start up a game of Blackjack?", playerName);
+            string answer = Console.ReadLine().ToLower();
 
-            foreach (Card card in deck.Cards)
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thanks for playing partner. Happy trails!");
             }
-
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine("Feel free to take a look around town. See ya around!");
             Console.ReadLine();
         }
     }
